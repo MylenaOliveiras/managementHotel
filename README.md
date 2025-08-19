@@ -55,6 +55,7 @@ src/
 - Eclipse IDE
 
 ---
+
 <div align="center">
-   <sub>Feito por Mylena Oliveira</sub>
+  <b>Feito por Mylena Oliveira</b>
 </div>
